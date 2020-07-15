@@ -1,0 +1,1737 @@
+# Translation of Themes - SkyWP in Russian
+# This file is distributed under the same license as the Themes - SkyWP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-26 14:53:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - SkyWP\n"
+
+#. Theme Name of the theme
+msgid "SkyWP"
+msgstr "SkyWP"
+
+#: inc/customizer/settings/general.php:57
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer/settings/general.php:42
+msgid "Add a different logo in the template: Full-Width Page"
+msgstr "Добавьте другой логотип на странице шаблона: Full-Width Page"
+
+#: inc/customizer/settings/topbar.php:383
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/settings/topbar.php:382
+msgid "200"
+msgstr "200"
+
+#: inc/customizer/settings/topbar.php:381
+msgid "100"
+msgstr "100"
+
+#: inc/admin/admin-functions.php:55
+msgid "I already did"
+msgstr "Я уже сделал"
+
+#: inc/admin/admin-functions.php:52
+msgid "Maybe later"
+msgstr "Может быть позже"
+
+#: inc/admin/admin-functions.php:49
+msgid "Sure!"
+msgstr "Да, конечно!"
+
+#: inc/admin/admin-functions.php:46
+msgid "Could you please do us a big favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the SkyWP theme."
+msgstr "Не могли бы вы оказать нам большую услугу и поставить теме рейтинг 5 звёзд на сайте WordPress? Это повысит нашу мотивацию и поможет другим пользователям принять удобное решение при выборе темы SkyWP."
+
+#: inc/admin/admin-functions.php:44
+msgid "Hello! Seems like you have used SkyWP theme to build this website - Thanks a ton!"
+msgstr "Здравствуйте! Похоже вы использовали тему SkyWP для создания этого сайта - Спасибо огромное!"
+
+#: inc/widgets/widgets.php:30
+msgid "Widgets in this area will be displayed in the TopBar left."
+msgstr "Виджеты в этой области будут отображаться в верхней панели слева."
+
+#: inc/customizer/settings/topbar.php:336
+#: inc/customizer/settings/topbar.php:507
+msgid "This setting works on pages where (Position: absolute)"
+msgstr "Этот параметр работает на страницах, где (Позиционирование: абсолютное)"
+
+#: inc/customizer/settings/topbar.php:317
+#: inc/customizer/settings/topbar.php:487
+msgid "This setting works on pages where (Position: relative)"
+msgstr "Этот параметр работает на страницах, где (Позиционирование: относительное)"
+
+#: inc/customizer/settings/topbar.php:129
+msgid "Show on all pages except the template: full-width page."
+msgstr "Показать на всех страницах, кроме шаблона: во всю ширину страницы."
+
+#: inc/customizer/settings/general.php:1406
+msgid "Pages Setup"
+msgstr "Настройки страниц"
+
+#: inc/customizer/settings/general.php:1193
+msgid "You can insert the Font Awesome code here."
+msgstr "Вы можете вставить код Font Awesome."
+
+#: inc/customizer/settings/general.php:1192
+msgid "Link Home"
+msgstr "Ссылка на главную"
+
+#: inc/customizer/settings/general.php:1187
+msgid "Home"
+msgstr "Главная"
+
+#: inc/customizer/settings/general.php:1172
+msgid "Disable on WooCommerce Page?"
+msgstr "Отключить на страницах WooCommerce?"
+
+#: inc/customizer/settings/general.php:1152
+msgid "Disable on 404 Page?"
+msgstr "Отключить на странице 404?"
+
+#: inc/customizer/settings/general.php:1133
+msgid "Disable on Post?"
+msgstr "Отключить на страницах записей?"
+
+#: inc/customizer/settings/general.php:1114
+msgid "Disable on Page?"
+msgstr "Отключить на страницах?"
+
+#: inc/customizer/settings/general.php:1095
+msgid "Disable on Attachment?"
+msgstr "Отключить на странице вложений?"
+
+#: inc/customizer/settings/general.php:1076
+msgid "Disable on Archive?"
+msgstr "Отключить на страницах архивов?"
+
+#: inc/customizer/settings/general.php:1057
+msgid "Disable on Search?"
+msgstr "Отключить на странице поиска?"
+
+#: inc/customizer/settings/general.php:1038
+msgid "Disable on Blog / Posts Page?"
+msgstr "Отключить на странице блога?"
+
+#: inc/customizer/settings/general.php:1019
+msgid "Disable on Home Page?"
+msgstr "Отключить на домашней странице?"
+
+#: inc/customizer/settings/general.php:999
+msgid "Before Title"
+msgstr "Перед заголовком"
+
+#: inc/customizer/settings/general.php:998
+msgid "After Header"
+msgstr "После меню"
+
+#: inc/customizer/settings/general.php:977
+msgid "Breadcrumb"
+msgstr "\"Хлебные крошки\""
+
+#: inc/customizer/settings/general.php:695
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/customizer/settings/general.php:77
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: inc/customizer/settings/general.php:29
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/customizer/settings/footer.php:59
+msgid "Footer Standard"
+msgstr "Стандартный подвал"
+
+#: inc/customizer/settings/content.php:208
+msgid "Post Navigation"
+msgstr "Навигация по записям"
+
+#: inc/customizer/settings/content.php:60
+msgid "Layout Style"
+msgstr "Стиль разметки"
+
+#: inc/customizer/settings/content.php:32
+msgid "Post Page"
+msgstr "Страница блога"
+
+#: inc/customizer/settings/sidebar.php:184
+msgid "Single Product"
+msgstr "Страница товара"
+
+#: inc/customizer/settings/sidebar.php:119
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: inc/customizer/settings/sidebar.php:98
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/customizer/settings/sidebar.php:77
+msgid "Articles"
+msgstr "Статьи"
+
+#: inc/customizer/settings/sidebar.php:56
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/customizer/settings/sidebar.php:41
+#: inc/customizer/settings/sidebar.php:62
+#: inc/customizer/settings/sidebar.php:83
+#: inc/customizer/settings/sidebar.php:104
+#: inc/customizer/settings/sidebar.php:125
+#: inc/customizer/settings/sidebar.php:146
+#: inc/customizer/settings/sidebar.php:169
+#: inc/customizer/settings/sidebar.php:190
+msgid "Sidebar Right"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/settings/sidebar.php:35
+msgid "Default Layout"
+msgstr "Разметка по умолчанию"
+
+#: inc/customizer/settings/sidebar.php:21
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/customizer/settings/general.php:945
+#: inc/customizer/settings/header.php:1134
+msgid "Border Radius (px)"
+msgstr "Скругление углов (px)"
+
+#: inc/customizer/settings/general.php:428
+#: inc/customizer/settings/general.php:881
+#: inc/customizer/settings/header.php:1058
+msgid "Border"
+msgstr "Граница"
+
+#: inc/customizer/settings/header.php:821
+msgid "%1$sCustomize Button Style.%2$s"
+msgstr "%1$sНастроить стиль кнопки.%2$s"
+
+#: inc/customizer/settings/header.php:801
+#: inc/customizer/settings/header.php:838
+msgid "Header Button"
+msgstr "Кнопка в меню"
+
+#: inc/customizer/settings/header.php:794
+msgid "Button Style"
+msgstr "Стиль кнопки"
+
+#: inc/customizer/settings/header.php:775
+msgid "Button Link Rel"
+msgstr "Rel кнопки"
+
+#: inc/customizer/settings/header.php:756
+msgid "Open in New Tab"
+msgstr "Открыть в новой вкладке"
+
+#: inc/customizer/settings/header.php:737
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/customizer/settings/header.php:718
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer/settings/header.php:677
+msgid "Hide on Mobile"
+msgstr "Скрывать на телефоне"
+
+#: inc/customizer/settings/header.php:658
+msgid "Hide on Tablet"
+msgstr "Скрывать на планшете"
+
+#: inc/customizer/settings/header.php:638
+#: inc/customizer/settings/sidebar.php:163
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/settings/header.php:637
+msgid "Widget"
+msgstr "Виджет"
+
+#: inc/customizer/settings/header.php:636
+#: inc/customizer/settings/header.php:1173
+msgid "Text / HTML"
+msgstr "Текст / HTML"
+
+#: inc/customizer/settings/header.php:635
+#: inc/customizer/settings/header.php:713
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/settings/header.php:613
+#: inc/customizer/settings/header.php:627
+msgid "Right Header Item"
+msgstr "Правый элемент в меню"
+
+#: inc/customizer/settings/topbar.php:432
+#: inc/customizer/settings/general.php:962
+#: inc/customizer/settings/general.php:1388
+#: inc/customizer/settings/header.php:435
+#: inc/customizer/settings/header.php:1154
+msgid "Letter Spacing (px)"
+msgstr "Межбуквенное расстояние (px)"
+
+#: inc/customizer/settings/topbar.php:406
+#: inc/customizer/settings/general.php:1362
+#: inc/customizer/settings/header.php:412
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/customizer/settings/topbar.php:375
+#: inc/customizer/settings/general.php:727
+#: inc/customizer/settings/general.php:1334
+#: inc/customizer/settings/header.php:384
+#: inc/customizer/settings/header.php:877
+msgid "Font Weight"
+msgstr "Жирность шрифта"
+
+#: inc/customizer/settings/topbar.php:281
+#: inc/customizer/settings/header.php:309
+msgid "This setting changes the background on pages where (Position: absolute)"
+msgstr "Этот параметр изменяет фон на страницах, где (Позиционирование: абсолютное)"
+
+#: inc/customizer/settings/topbar.php:261
+#: inc/customizer/settings/header.php:289
+msgid "This setting changes the background on pages where (Position: relative)"
+msgstr "Этот параметр изменяет фон на страницах, где (Позиционирование: относительное)"
+
+#: inc/customizer/settings/header.php:269
+#: inc/customizer/settings/header.php:526
+msgid "This setting changes the color on pages where (Position: absolute)"
+msgstr "Этот параметр изменяет цвет на страницах, где (Позиционирование: абсолютное)"
+
+#: inc/customizer/settings/header.php:249
+#: inc/customizer/settings/header.php:507
+msgid "This setting changes the color on pages where (Position: relative)"
+msgstr "Этот параметр изменяет цвет на страницах, где (Позиционирование: относительное)"
+
+#: inc/customizer/settings/topbar.php:148
+#: inc/customizer/settings/header.php:154
+msgid "Disable position absolute on all pages except the template: full-width page."
+msgstr "Отключить абсолютное позиционирование на всех страницах, кроме шаблона: во всю ширину страницы."
+
+#: inc/widgets/widgets.php:154
+msgid "This sidebar will be used on Single Product page."
+msgstr "Эта боковая панель будет использоваться на странице товара."
+
+#: inc/widgets/widgets.php:152
+msgid "Product Sidebar"
+msgstr "Боковая панель на странице продукта"
+
+#: inc/widgets/widgets.php:144
+msgid "This sidebar will be used on Product archive, Cart, Checkout and My Account pages."
+msgstr "Эта боковая панель будет использоваться на страницах Продуктов, Корзина, Оформление заказа и Моя учетная запись."
+
+#: inc/widgets/widgets.php:142
+msgid "WooCommerce Sidebar"
+msgstr "Боковая панель WooCommerce"
+
+#: inc/widgets/widgets.php:48
+msgid "TopBar (Right)"
+msgstr "Верхняя панель (Справа)"
+
+#: inc/widgets/widgets.php:18
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+#: template-parts/header/header-banner.php:25 inc/helpers.php:907
+msgid "Add Widget"
+msgstr "Добавить виджет"
+
+#: woocommerce/woocommerce.php:391
+msgid "View your shopping cart"
+msgstr "Посмотреть свою корзину"
+
+#: inc/customizer/settings/footer.php:171
+msgid "Tag Cloud Color: Hover"
+msgstr "Цвет облака тегов: при наведении"
+
+#: inc/customizer/settings/topbar.php:472
+msgid "Style first"
+msgstr "Стиль первый"
+
+#: inc/customizer/settings/topbar.php:466
+msgid "Social media buttons style"
+msgstr "Стиль кнопок социальных сетей"
+
+#: inc/customizer/settings/topbar.php:450
+msgid "Social media buttons"
+msgstr "Кнопки социальных сетей"
+
+#: inc/customizer/settings/topbar.php:213 inc/customizer/settings/footer.php:91
+#: inc/customizer/settings/footer.php:256
+#: inc/customizer/settings/general.php:775
+#: inc/customizer/settings/general.php:1294
+#: inc/customizer/settings/header.php:931
+msgid "Padding (px)"
+msgstr "Внутренний отступ (px)"
+
+#: inc/customizer/settings/topbar.php:33 inc/customizer/settings/general.php:21
+#: inc/customizer/settings/header.php:34
+msgid "Main"
+msgstr "Основные настройки"
+
+#: inc/customizer/settings/general.php:97
+msgid "Main Styling"
+msgstr "Основные стили"
+
+#: inc/widgets/widgets.php:40
+msgid "Widgets in this area will be displayed in the TopBar centered."
+msgstr "Виджеты в этой области будут отображаться в центре верхней панели."
+
+#: inc/widgets/widgets.php:38
+msgid "TopBar (Centered)"
+msgstr "Верхняя панель (По центру)"
+
+#: inc/widgets/widgets.php:50
+msgid "Widgets in this area will be displayed in the TopBar right."
+msgstr "Виджеты в этой области будут отображаться в верхней панели справа."
+
+#: inc/widgets/widgets.php:28
+msgid "TopBar (Left)"
+msgstr "Верхняя панель (Слева)"
+
+#: inc/customizer/settings/topbar.php:355
+#: inc/customizer/settings/general.php:129
+#: inc/customizer/settings/general.php:710
+#: inc/customizer/settings/header.php:367
+#: inc/customizer/settings/header.php:857
+msgid "Font Size (px)"
+msgstr "Размер шрифта (px)"
+
+#: inc/customizer/settings/footer.php:187
+msgid "Tag Cloud Border Color"
+msgstr "Цвет обводки Облака Тегов"
+
+#: inc/customizer/settings/footer.php:140
+msgid "Header Border Color"
+msgstr "Цвет линии под заголовком"
+
+#. translators: %s: Name of current post
+#: attachment.php:65
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Редактировать<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: attachment.php:54
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Полный размер"
+
+#: attachment.php:77
+msgid "Next Image"
+msgstr "Следующее изображение"
+
+#: attachment.php:76
+msgid "Previous Image"
+msgstr "Предыдущее изображение"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/widgets/class-skywp-728-90-advertisement.php:58
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: inc/widgets/class-skywp-728-90-advertisement.php:48
+msgid "Link to:"
+msgstr "Ссылка на:"
+
+#: inc/widgets/class-skywp-728-90-advertisement.php:29
+msgid "SkyWP - Header Banner"
+msgstr "SkyWP - Баннер в верхней панели"
+
+#: inc/widgets/class-skywp-728-90-advertisement.php:25
+msgid "Header banner"
+msgstr "Баннер в верхней панели"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:168
+msgid "Number of comments to show:"
+msgstr "Количество комментариев:"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:165
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:124
+msgid "%1$s : %2$s"
+msgstr "%1$s : %2$s"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:77
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:30
+msgid "SkyWP - Recent Comments"
+msgstr "SkyWP - Последние комментарии"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:27
+msgid "Your site&#8217;s most recent comments."
+msgstr "Самые свежие комментарии вашего сайта."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагинов %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все плагины установлены успешно."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для активации. Никаких действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления. Никаких действий не произведено."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки. Никаких действий не произведено."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Необходим"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Удалённый набор плагинов состоит из более, чем одного файла, но файлы не помещены в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым слагом и переименование не сработало."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Есть один или несколько требуемых или рекомендованных плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин был успешно активирован:"
+msgstr[1] "Этот плагин был успешно активирован:"
+msgstr[2] "Этот плагин был успешно активирован:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагина"
+msgstr[2] "Начать активацию плагина"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагина"
+msgstr[2] "Начать обновление плагина"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагина"
+msgstr[2] "Начать установку плагина"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендованный плагин на текущий момент неактивен: %1$s."
+msgstr[1] "Этот рекомендованный плагин на текущий момент неактивен: %1$s."
+msgstr[2] "Этот рекомендованный плагин на текущий момент неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот необходимый плагин сейчас неактивен: %1$s."
+msgstr[1] "Этот необходимый плагин сейчас неактивен: %1$s."
+msgstr[2] "Этот необходимый плагин сейчас неактивен: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступно обновление плагина: %1$s."
+msgstr[2] "Доступно обновление плагина: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин необходимо обновить до текущей версии для максимальной совместимости с этой темой: %1$s."
+msgstr[1] "Следующий плагин необходимо обновить до текущей версии для максимальной совместимости с этой темой: %1$s."
+msgstr[2] "Следующий плагин необходимо обновить до текущей версии для максимальной совместимости с этой темой: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[2] "Для этой темы рекомендуется следующий плагин: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для этой темы требуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы требуется следующий плагин: %1$s."
+msgstr[2] "Для этой темы требуется следующий плагин: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+#: inc/helpers.php:1309
+msgid "SkyWP Theme WordPress"
+msgstr "SkyWP шаблон WordPress"
+
+#: inc/customizer/settings/footer.php:225
+msgid "Space Evenly"
+msgstr "Равномерный отступ"
+
+#: inc/customizer/settings/footer.php:223
+msgid "Space Between"
+msgstr "Отступ между"
+
+#: inc/customizer/settings/topbar.php:233
+#: inc/customizer/settings/footer.php:214
+#: inc/customizer/settings/general.php:1250
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/customizer/settings/footer.php:52
+msgid "Footer layout"
+msgstr "Макет подвала"
+
+#: inc/customizer/settings/footer.php:38
+msgid "Footer Bottom"
+msgstr "Нижний подвал"
+
+#: inc/customizer/settings/footer.php:26
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer/settings/typography.php:54
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/customizer/settings/typography.php:39
+msgid "Body"
+msgstr "Основная часть"
+
+#: inc/customizer/settings/typography.php:26
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/customizer/settings/header.php:702
+msgid "Dropdown"
+msgstr "Выпадающее"
+
+#: inc/customizer/settings/header.php:696
+msgid "Search Style"
+msgstr "Стиль поиска"
+
+#: inc/customizer/settings/general.php:822
+#: inc/customizer/settings/header.php:599
+#: inc/customizer/settings/header.php:987
+msgid "Color :Hover"
+msgstr "Цвет: при наведении"
+
+#: inc/customizer/settings/general.php:867
+#: inc/customizer/settings/header.php:557
+#: inc/customizer/settings/header.php:1041
+msgid "Background :Hover"
+msgstr "Фон: при наведении"
+
+#: inc/customizer/settings/header.php:506
+#: inc/customizer/settings/header.php:525
+msgid "Button Menu"
+msgstr "Кнопка меню"
+
+#: inc/customizer/settings/header.php:494
+msgid "Unfolded levels"
+msgstr "Развёрнутое"
+
+#: inc/customizer/settings/header.php:493
+msgid "Expand levels"
+msgstr "Выпадающее"
+
+#: inc/customizer/settings/header.php:492
+msgid "Overlap levels"
+msgstr "Перекрывающее"
+
+#: inc/customizer/settings/header.php:486
+msgid "Effect opening submenus"
+msgstr "Эффект открытия подменю"
+
+#: inc/customizer/settings/header.php:473
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer/settings/header.php:472
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer/settings/header.php:450
+msgid "Mobile Menu"
+msgstr "Мобильное меню"
+
+#: inc/customizer/settings/topbar.php:70
+#: inc/customizer/settings/general.php:1212
+#: inc/customizer/settings/header.php:101
+#: inc/customizer/settings/header.php:353
+msgid "Border Bottom"
+msgstr "Нижнее подчёркивание"
+
+#: inc/customizer/settings/header.php:346
+msgid "Links Effect"
+msgstr "Эффект ссылок"
+
+#: inc/customizer/settings/header.php:328
+msgid "Background Sticky"
+msgstr "Фон липкого меню"
+
+#: inc/customizer/settings/header.php:228
+msgid "Offset Top (Mobile < 425px)"
+msgstr "Отступ сверху (Мобильных < 425px)"
+
+#: inc/customizer/settings/header.php:209
+msgid "Offset Top (Tablet 768 - 425px)"
+msgstr "Отступ сверху (Планшетах 768 - 425px)"
+
+#: inc/customizer/settings/header.php:190
+msgid "Offset Top (Desktop)"
+msgstr "Отступ сверху (Компьютерах)"
+
+#: inc/customizer/settings/header.php:85
+msgid "Sticky Header"
+msgstr "Прилепленная шапка"
+
+#: inc/customizer/settings/header.php:71
+msgid "Banner Menu"
+msgstr "Баннер меню"
+
+#: inc/customizer/settings/header.php:67
+msgid "Standard Menu 2"
+msgstr "Стандартное меню 2"
+
+#: inc/customizer/settings/header.php:63
+msgid "Left Aligned Menu"
+msgstr "Выровненное по левому краю меню"
+
+#: inc/customizer/settings/header.php:59
+msgid "Centered Menu"
+msgstr "Центрированное меню"
+
+#: inc/customizer/settings/header.php:55
+msgid "Standard Menu"
+msgstr "Стандартное меню"
+
+#: inc/customizer/settings/header.php:48
+msgid "Select header layout"
+msgstr "Выберите макет шапки"
+
+#: inc/widgets/widgets.php:60 inc/customizer/settings/header.php:26
+msgid "Header"
+msgstr "Шапка сайта"
+
+#: inc/customizer/settings/general.php:1295
+msgid "top right bottom left: 30px 0px 30px 0px"
+msgstr "сверху справа снизу слева: 30px 0px 30px 0px"
+
+#: inc/customizer/settings/general.php:929
+#: inc/customizer/settings/header.php:1115
+msgid "Border Color :Hover"
+msgstr "Цвет границы: при наведении"
+
+#: inc/customizer/settings/general.php:897
+#: inc/customizer/settings/header.php:1077
+msgid "Border (px)"
+msgstr "Граница (px)"
+
+#: inc/customizer/settings/general.php:776
+#: inc/customizer/settings/header.php:932
+msgid "top right bottom left: 15px 25px 15px 25px"
+msgstr "сверху справа снизу слева: 15px 25px 15px 25px"
+
+#: inc/customizer/settings/header.php:800
+msgid "Theme Button"
+msgstr "Кнопка темы"
+
+#: inc/customizer/settings/general.php:651
+msgid "Link Color: Hover"
+msgstr "Цвет ссылки: при наведении"
+
+#: inc/customizer/settings/general.php:636
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer/settings/topbar.php:389
+#: inc/customizer/settings/general.php:623
+#: inc/customizer/settings/general.php:738
+#: inc/customizer/settings/general.php:1345
+#: inc/customizer/settings/header.php:398
+#: inc/customizer/settings/header.php:888
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/settings/topbar.php:388
+#: inc/customizer/settings/general.php:622
+#: inc/customizer/settings/general.php:737
+#: inc/customizer/settings/general.php:1344
+#: inc/customizer/settings/header.php:397
+#: inc/customizer/settings/header.php:887
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/settings/topbar.php:387
+#: inc/customizer/settings/general.php:621
+#: inc/customizer/settings/general.php:736
+#: inc/customizer/settings/general.php:1343
+#: inc/customizer/settings/header.php:396
+#: inc/customizer/settings/header.php:886
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/settings/topbar.php:386
+#: inc/customizer/settings/general.php:620
+#: inc/customizer/settings/general.php:735
+#: inc/customizer/settings/general.php:1342
+#: inc/customizer/settings/header.php:395
+#: inc/customizer/settings/header.php:885
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/settings/topbar.php:385
+#: inc/customizer/settings/general.php:619
+#: inc/customizer/settings/general.php:734
+#: inc/customizer/settings/general.php:1341
+#: inc/customizer/settings/header.php:394
+#: inc/customizer/settings/header.php:884
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/settings/topbar.php:384
+#: inc/customizer/settings/general.php:618
+#: inc/customizer/settings/general.php:733
+#: inc/customizer/settings/general.php:1340
+#: inc/customizer/settings/header.php:390
+#: inc/customizer/settings/header.php:391
+#: inc/customizer/settings/header.php:392
+#: inc/customizer/settings/header.php:393
+#: inc/customizer/settings/header.php:883
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/settings/general.php:612
+msgid "Font Weight:"
+msgstr "Жирность шрифта:"
+
+#: inc/customizer/settings/topbar.php:415
+#: inc/customizer/settings/general.php:583
+#: inc/customizer/settings/general.php:761
+#: inc/customizer/settings/general.php:997
+#: inc/customizer/settings/general.php:1371
+#: inc/customizer/settings/header.php:421
+#: inc/customizer/settings/header.php:633
+#: inc/customizer/settings/header.php:914
+msgid "None"
+msgstr "Не задано"
+
+#: inc/customizer/settings/topbar.php:414
+#: inc/customizer/settings/general.php:582
+#: inc/customizer/settings/general.php:760
+#: inc/customizer/settings/general.php:1370
+#: inc/customizer/settings/header.php:420
+#: inc/customizer/settings/header.php:913
+msgid "Capitalize"
+msgstr "Все слова с большой буквы"
+
+#: inc/customizer/settings/topbar.php:413
+#: inc/customizer/settings/general.php:581
+#: inc/customizer/settings/general.php:759
+#: inc/customizer/settings/general.php:1369
+#: inc/customizer/settings/header.php:419
+#: inc/customizer/settings/header.php:912
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer/settings/topbar.php:412
+#: inc/customizer/settings/general.php:580
+#: inc/customizer/settings/general.php:758
+#: inc/customizer/settings/general.php:1368
+#: inc/customizer/settings/header.php:418
+#: inc/customizer/settings/header.php:911
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer/settings/general.php:574
+#: inc/customizer/settings/general.php:752
+#: inc/customizer/settings/header.php:905
+msgid "Text Transform:"
+msgstr "Преобразование текста:"
+
+#: inc/customizer/settings/general.php:558
+msgid "Letter Spacing (px):"
+msgstr "Интервал между буквами (px):"
+
+#: inc/customizer/settings/general.php:544
+msgid "Widget Tags Cloud"
+msgstr "Виджет Облако Тегов"
+
+#: inc/customizer/settings/general.php:526
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: inc/customizer/settings/general.php:508
+msgid "Color :hover"
+msgstr "Цвет: при наведении"
+
+#: inc/customizer/settings/general.php:456
+msgid "Scroll Up Button"
+msgstr "Кнопка прокрутки вверх"
+
+#: inc/customizer/settings/general.php:442
+msgid "Scroll To Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer/settings/general.php:368
+msgid "Widget settings in the right and left sidebars of the site."
+msgstr "Настройки виджетов в правой и левой боковых панелях сайта."
+
+#: inc/customizer/settings/general.php:367
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/customizer/settings/general.php:351
+msgid "Placeholder Color"
+msgstr "Цвет заполнителя"
+
+#: inc/customizer/settings/general.php:336
+msgid "Border Color: Focus"
+msgstr "Цвет границы: при фокусе"
+
+#: inc/customizer/settings/general.php:291
+msgid "Label Color"
+msgstr "Цвет заголовков"
+
+#: inc/customizer/settings/general.php:276
+msgid "Input / Textarea"
+msgstr "Input / Textarea"
+
+#: inc/customizer/settings/general.php:260
+msgid "The color of the header on all pages"
+msgstr "Цвет заголовков на всех страницах сайта"
+
+#: inc/customizer/settings/general.php:245
+msgid "Links Color: Hover"
+msgstr "Цвет ссылок: при наведении"
+
+#: inc/customizer/settings/general.php:230
+msgid "This controller is responsible for the color of links in the body of the site, except for links in articles."
+msgstr "Этот контроллер отвечает за цвет ссылок в теле сайта, за исключением ссылок в статьях."
+
+#: inc/customizer/settings/general.php:229
+#: inc/customizer/settings/header.php:248
+#: inc/customizer/settings/header.php:268
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer/settings/general.php:213
+msgid "Accent Color"
+msgstr "Акцентный цвет"
+
+#: inc/customizer/settings/general.php:198
+msgid "Default Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/settings/general.php:182
+msgid "Inner Background"
+msgstr "Внутренний фон"
+
+#: inc/customizer/settings/general.php:166
+msgid "Outer Background"
+msgstr "Внешний фон"
+
+#: inc/customizer/settings/general.php:152
+msgid "Dark"
+msgstr "Тёмная"
+
+#: inc/customizer/settings/general.php:151
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/customizer/settings/general.php:145
+msgid "Base Color Scheme"
+msgstr "Основная цветовая схема"
+
+#: inc/customizer/settings/topbar.php:193
+#: inc/customizer/settings/footer.php:239
+#: inc/customizer/settings/general.php:112
+msgid "Width (px)"
+msgstr "Ширина (px)"
+
+#: inc/customizer/settings/content.php:326
+msgid "Border Radius (px):"
+msgstr "Скругление углов (px)"
+
+#: inc/customizer/settings/topbar.php:486
+#: inc/customizer/settings/topbar.php:506
+#: inc/customizer/settings/content.php:224
+#: inc/customizer/settings/content.php:311
+#: inc/customizer/settings/general.php:490
+#: inc/customizer/settings/general.php:791
+#: inc/customizer/settings/general.php:807
+#: inc/customizer/settings/general.php:1315
+#: inc/customizer/settings/header.php:352
+#: inc/customizer/settings/header.php:585
+#: inc/customizer/settings/header.php:950
+#: inc/customizer/settings/header.php:969
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/settings/topbar.php:89
+#: inc/customizer/settings/content.php:296
+#: inc/customizer/settings/general.php:321
+#: inc/customizer/settings/general.php:681
+#: inc/customizer/settings/general.php:914
+#: inc/customizer/settings/general.php:1231
+#: inc/customizer/settings/header.php:117
+#: inc/customizer/settings/header.php:571
+#: inc/customizer/settings/header.php:1097
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: inc/customizer/settings/content.php:283
+#: inc/customizer/settings/footer.php:222
+#: inc/customizer/settings/general.php:1258
+#: inc/customizer/settings/header.php:471
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/settings/content.php:282
+#: inc/customizer/settings/footer.php:221
+#: inc/customizer/settings/general.php:1256
+#: inc/customizer/settings/header.php:470
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/settings/content.php:275
+msgid "Align:"
+msgstr "Выравнивание:"
+
+#: inc/customizer/settings/content.php:261
+msgid "Pagination"
+msgstr "Постраничная навигация"
+
+#: inc/customizer/settings/content.php:180
+msgid "Article Page"
+msgstr "Страница статьи"
+
+#: inc/customizer/settings/content.php:166
+#: inc/customizer/settings/content.php:194
+msgid "Meta Color"
+msgstr "Цвет метаданных"
+
+#: inc/customizer/settings/content.php:150
+#: inc/customizer/settings/footer.php:124
+#: inc/customizer/settings/general.php:383
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/settings/topbar.php:260
+#: inc/customizer/settings/topbar.php:280
+#: inc/customizer/settings/content.php:134
+#: inc/customizer/settings/content.php:247
+#: inc/customizer/settings/footer.php:108
+#: inc/customizer/settings/footer.php:273
+#: inc/customizer/settings/general.php:413
+#: inc/customizer/settings/general.php:472
+#: inc/customizer/settings/general.php:666
+#: inc/customizer/settings/general.php:836
+#: inc/customizer/settings/general.php:852
+#: inc/customizer/settings/general.php:1275
+#: inc/customizer/settings/header.php:288
+#: inc/customizer/settings/header.php:308
+#: inc/customizer/settings/header.php:543
+#: inc/customizer/settings/header.php:1004
+#: inc/customizer/settings/header.php:1023
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/settings/content.php:119
+msgid "Three"
+msgstr "Три"
+
+#: inc/customizer/settings/content.php:115
+msgid "Two"
+msgstr "Два"
+
+#: inc/customizer/settings/content.php:111
+msgid "One"
+msgstr "Один"
+
+#: inc/customizer/settings/content.php:104
+msgid "Number Of Columns"
+msgstr "Количество столбцов"
+
+#: inc/customizer/settings/content.php:90
+msgid "Masonry"
+msgstr "Кирпичная кладка"
+
+#: inc/template-functions.php:49 inc/customizer/settings/content.php:66
+#: inc/customizer/settings/content.php:86
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/settings/content.php:79
+msgid "Post Style"
+msgstr "Стиль записей"
+
+#: inc/customizer/settings/content.php:45
+msgid "Post Display Style"
+msgstr "Стиль отображения записей"
+
+#: inc/customizer/settings/topbar.php:316
+#: inc/customizer/settings/topbar.php:335
+#: inc/customizer/settings/footer.php:156
+#: inc/customizer/settings/general.php:306
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/settings/general.php:596
+msgid "Font Size (px):"
+msgstr "Размер шрифта (px)"
+
+#: inc/customizer/settings/topbar.php:298
+#: inc/customizer/settings/content.php:21
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer/settings/topbar.php:113
+#: inc/customizer/settings/header.php:141
+msgid "Absolute"
+msgstr "Абсолютное"
+
+#: inc/customizer/settings/topbar.php:112
+#: inc/customizer/settings/header.php:140
+msgid "Relative"
+msgstr "Относительное"
+
+#: inc/customizer/settings/topbar.php:106
+#: inc/customizer/settings/general.php:991
+#: inc/customizer/settings/header.php:134
+#: inc/customizer/settings/header.php:464
+msgid "Position"
+msgstr "Позиционирование"
+
+#: inc/customizer/settings/topbar.php:243
+msgid "Flex End"
+msgstr "Справа"
+
+#: inc/customizer/settings/topbar.php:242
+msgid "Flex Start"
+msgstr "Слева"
+
+#: inc/customizer/settings/topbar.php:241
+#: inc/customizer/settings/content.php:281
+#: inc/customizer/settings/footer.php:220
+#: inc/customizer/settings/general.php:1257
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/settings/topbar.php:240
+#: inc/customizer/settings/footer.php:224
+msgid "Space Around"
+msgstr "Пространство вокруг"
+
+#: inc/customizer/settings/topbar.php:239
+msgid "Spece Between"
+msgstr "Отступ между"
+
+#: inc/customizer/settings/topbar.php:214
+msgid "top right bottom left: 10px 0px 10px 0px"
+msgstr "сверху справа снизу слева: 10px 0px 10px 0px"
+
+#: inc/customizer/settings/footer.php:74 inc/customizer/settings/header.php:174
+msgid "Width (px):"
+msgstr "Ширина (px):"
+
+#: inc/customizer/settings/topbar.php:176
+msgid "Hide On Tablet and Mobile"
+msgstr "Скрывать на планшетах и мобильных"
+
+#: inc/customizer/settings/topbar.php:175
+msgid "Hide On Mobile"
+msgstr "Скрывать на телефоне"
+
+#: inc/customizer/settings/topbar.php:174
+msgid "Hide On Tablet"
+msgstr "Скрывать на планшете"
+
+#: inc/customizer/settings/topbar.php:173
+msgid "Show On All Devices"
+msgstr "Показывать на всех устройствах"
+
+#: inc/customizer/settings/topbar.php:167
+msgid "Visibility"
+msgstr "Показывать"
+
+#: inc/customizer/settings/topbar.php:47
+msgid "Show TopBar"
+msgstr "Показывать верхнюю панель"
+
+#: inc/customizer/settings/topbar.php:21
+msgid "TopBar"
+msgstr "Верхняя панель"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:97
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:80
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:70
+msgid "Tagged %1$s"
+msgstr "Теги %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:63
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:60
+msgid ", "
+msgstr ", "
+
+#: comments.php:88
+msgid "Leave a Comment to %s"
+msgstr "Оставьте комментарий к %s"
+
+#: comments.php:87
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+#: comments.php:86
+msgid "Comment..."
+msgstr "Комментарий..."
+
+#: comments.php:84
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:81
+msgid "Email (required)"
+msgstr "Email (обязательно)"
+
+#: comments.php:78
+msgid "Name (required)"
+msgstr "Имя (обязательно)"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:30
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr "1 комментарий к &ldquo;%1$s&rdquo;"
+
+#: functions.php:453
+msgid "SkyWP Import Demo"
+msgstr "SkyWP Импорт Демо"
+
+#: functions.php:452
+msgid "Import Demo Data"
+msgstr "Импортировать демо-данные"
+
+#: functions.php:442
+msgid "Importing demo data allow you to quickly edit everything instead of creating content from scratch. It is recommended uploading sample data on a fresh WordPress install to prevent conflicts with your current content. You can use this plugin to reset your site if needed: %1$sWordpress Database Resets%2$s."
+msgstr "Импорт демонстрационных данных позволяет быстро редактировать все страницы, а не создавать сайт с нуля. Рекомендуется загружать демо-данные при новой установке WordPress, чтобы избежать конфликтов с текущим содержимым. При необходимости вы можете использовать этот плагин для очистки вашего сайта: %1$sWordpress Database Resets%2$s."
+
+#: functions.php:433
+msgid "Use the installation instructions %1$sGo to the documentation%2$s"
+msgstr "Используйте инструкции по установке %1$sПерейти к документации%2$s"
+
+#: inc/widgets/widgets.php:71
+msgid "Header Banner"
+msgstr "Баннер в верхней панели"
+
+#: inc/widgets/widgets.php:133
+msgid "Widgets in this area are used in the page 404."
+msgstr "Виджеты в этой области отображаются на странице 404."
+
+#: inc/widgets/widgets.php:131 inc/customizer/settings/general.php:1420
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#: inc/widgets/widgets.php:123
+msgid "Widgets in this area are used in the copyright region."
+msgstr "Виджеты в этой области отображаются в области авторского права."
+
+#: inc/widgets/widgets.php:121 inc/customizer/settings/footer.php:200
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: inc/widgets/widgets.php:113
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr "Виджеты в этой области отображаются в четвёртой области подвала."
+
+#: inc/widgets/widgets.php:111
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: inc/widgets/widgets.php:103
+msgid "Widgets in this area are used in the third footer region."
+msgstr "Виджеты в этой области отображаются в третьей области подвала."
+
+#: inc/widgets/widgets.php:101
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: inc/widgets/widgets.php:93
+msgid "Widgets in this area are used in the second footer region."
+msgstr "Виджеты в этой области отображаются во второй области подвала."
+
+#: inc/widgets/widgets.php:91
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: inc/widgets/widgets.php:83
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Виджеты в этой области отображаются в первой области подвала."
+
+#: inc/widgets/widgets.php:81
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:72
+msgid "Social Topbar"
+msgstr "Соц. ссылки в верхней панели"
+
+#: functions.php:71
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: searchform.php:18 inc/customizer/settings/header.php:634
+#: inc/customizer/settings/sidebar.php:140
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer/settings/sidebar.php:43
+#: inc/customizer/settings/sidebar.php:64
+#: inc/customizer/settings/sidebar.php:85
+#: inc/customizer/settings/sidebar.php:106
+#: inc/customizer/settings/sidebar.php:127
+#: inc/customizer/settings/sidebar.php:148
+#: inc/customizer/settings/sidebar.php:171
+#: inc/customizer/settings/sidebar.php:192
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: template-parts/breadcrumb/breadcrumb.php:105
+msgid "Search results for"
+msgstr "Результаты поиска:"
+
+#: template-parts/breadcrumb/breadcrumb.php:92
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#: inc/customizer/settings/sidebar.php:42
+#: inc/customizer/settings/sidebar.php:63
+#: inc/customizer/settings/sidebar.php:84
+#: inc/customizer/settings/sidebar.php:105
+#: inc/customizer/settings/sidebar.php:126
+#: inc/customizer/settings/sidebar.php:147
+#: inc/customizer/settings/sidebar.php:170
+#: inc/customizer/settings/sidebar.php:191
+msgid "Sidebar Left"
+msgstr "Боковая панель слева"
+
+#: template-parts/content.php:71 template-parts/content-search.php:63
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content.php:51 template-parts/content-search.php:43
+msgid "Comments Off"
+msgstr "Комментарии отключены"
+
+#. Template Name of the theme
+msgid "Full Width For Elementor"
+msgstr "Во всю ширину для Elementor"
+
+#: template-parts/content-none.php:50
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Не можем найти то что вы ищете. Возможно, поиск сможет помочь."
+
+#: template-parts/content-none.php:44
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:31
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:24
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#: template-parts/content-none.php:20
+msgid "Oops!"
+msgstr "Ой!"
+
+#: template-parts/content-none.php:14
+msgid "Couldn't find what you're looking for!"
+msgstr "Мы не можем найти то, что вы ищете!"
+
+#. Author URI of the theme
+msgid "https://urchenko.ru/"
+msgstr "https://urchenko.ru/"
+
+#. Author of the theme
+msgid "Urchenko"
+msgstr "Юрченко"
